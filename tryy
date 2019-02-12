@@ -6,7 +6,9 @@
 <body style="background-image:url('/home/student/Downloads/Cool-Dope-Wallpaper-Background.jpg');background-repeat:norepeat;">
 <embed src="https://codepen.io/rachelnabors/pen/AeEHw"width="100%" height="60">
 <noembed><img src="/home/student/Downloads/giphy.gif" alt="Atlernative Media"></noembed>
+<marquee>
 <center><h1><b>Fus_oy</h1>
+</marquee>
 </embed>
 </body>
 </html>
